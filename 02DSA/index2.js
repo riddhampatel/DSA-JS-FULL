@@ -1,6 +1,5 @@
 // ===============================================
-// DAY 2 – Variables, Data Types & Type Conversion
-// DSA Practice – Ready to Run
+// DAY 2 – VARIABLES, DATA TYPES & TYPE CONVERSION
 // ===============================================
 
 // 1️⃣ Sum of Two Numbers (String to Number)

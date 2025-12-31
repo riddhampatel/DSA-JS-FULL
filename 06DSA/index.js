@@ -1,3 +1,7 @@
+// ===============================================
+// DAY 6 – DIGIT MANIPULATION PROBLEMS
+// ===============================================
+
 //sum of digits
 
 function sumOfDigits(n) {

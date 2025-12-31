@@ -1,6 +1,5 @@
 // ===============================================
-// DAY 3 – Operators & Math
-// Ready-to-Run DSA JS Practice
+// DAY 3 – OPERATORS & MATHEMATICAL FUNCTIONS
 // ===============================================
 
 // 1️⃣ Arithmetic Operators

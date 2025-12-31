@@ -1,3 +1,7 @@
+// ===============================================
+// DAY 3 – BASIC OPERATORS (ARITHMETIC, LOGICAL, COMPARISON)
+// ===============================================
+
 let a = 10, b = 3;
 console.log(a + b); // 13
 console.log(a % b); // 1

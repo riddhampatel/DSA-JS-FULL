@@ -1,3 +1,7 @@
+// ===============================================
+// DAY 4 – BITWISE OPERATIONS & LEAP YEAR LOGIC
+// ===============================================
+
 // Given an integer year, return true if it is a leap year, otherwise return false.
 function isLeapYear(year) {
     if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {

@@ -1,3 +1,7 @@
+// ===============================================
+// DAY 5 – MATHEMATICAL LOOPS (FACTORIAL, SUM, PRODUCT)
+// ===============================================
+
 // factorial loop 
 
 let n = 5;
