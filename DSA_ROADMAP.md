@@ -504,20 +504,3 @@ function updateProgress(week, completed) {
 ✅ Gain confidence in coding interviews  
 
 ---
-
-## 📞 Need Help?
-
-- **Stuck on a problem?** Break it into smaller parts
-- **Can't understand?** Draw it out on paper
-- **Feeling overwhelmed?** Take a break, it's okay!
-- **Behind schedule?** Quality > Quantity, take your time
-
----
-
-**Remember:** Everyone learns at their own pace. This roadmap is a guide, not a strict rule. Adjust it based on your schedule and learning style. The goal is to become a better problem solver, not to rush through topics.
-
-**Good luck on your DSA journey! 🚀**
-
----
-
-*Last Updated: December 29, 2025*
