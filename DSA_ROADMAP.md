@@ -1,4 +1,4 @@
-# 📚 Complete DSA in JavaScript - 49 Day Roadmap
+# 📚 Complete DSA in JavaScript - 64 Day Roadmap
 ## From Basics to Advanced | Easy → Medium → Hard
 
 ---
@@ -117,23 +117,35 @@
 - **Practice:** 15 sliding window problems
 - **Time:** 5 hours
 
-### **Day 16: Array Advanced Problems**
+### **Day 16: Hashing & Set/Map**
+- Hash map concept
+- JavaScript Objects as hash maps
+- Map data structure
+- Set data structure
+- Two Sum using hash map
+- Group anagrams
+- **Practice:** 20 hashing problems
+- **Time:** 5 hours
+
+### **Day 17: Array Advanced Problems**
 - Kadane's algorithm (Max subarray sum)
 - Dutch National Flag (Sort 0s, 1s, 2s)
-- Array rotation
+- Array rotation variations
 - Merge sorted arrays
+- Trapping rain water
 - **Practice:** 20 advanced array problems
 - **Time:** 6 hours
 
-### **Day 17: Matrix/2D Arrays**
+### **Day 18: Matrix/2D Arrays**
 - Matrix traversal (row-wise, column-wise)
 - Diagonal traversal
-- Matrix rotation
+- Matrix rotation (90°, 180°)
 - Spiral traversal
+- Search in 2D matrix
 - **Practice:** 15 matrix problems
 - **Time:** 5 hours
 
-### **Day 18: Week 3-4 Review & Contest**
+### **Day 19: Week 3-4 Review & Contest**
 - Solve 40 mixed problems
 - Mini coding contest (2 hours)
 - **Time:** 5 hours
@@ -142,15 +154,24 @@
 
 ## 💡 Week 5-6: Searching & Sorting Algorithms
 
-### **Day 19: Linear & Binary Search**
+### **Day 20: Linear & Binary Search**
 - Linear search implementation
 - Binary search (iterative & recursive)
-- Search in rotated array
+- Search in rotated sorted array
 - First/last occurrence
+- Search in 2D matrix
 - **Practice:** 20 searching problems
 - **Time:** 5 hours
 
-### **Day 20: Bubble Sort & Selection Sort**
+### **Day 21: Binary Search Advanced**
+- Find peak element
+- Square root using binary search
+- Search insert position
+- Median of two sorted arrays
+- **Practice:** 15 advanced search problems
+- **Time:** 5 hours
+
+### **Day 22: Bubble & Selection Sort**
 - Bubble sort algorithm
 - Optimized bubble sort
 - Selection sort
@@ -158,76 +179,84 @@
 - **Practice:** 10 sorting problems
 - **Time:** 4 hours
 
-### **Day 21: Insertion Sort & Merge Sort**
+### **Day 23: Insertion & Merge Sort**
 - Insertion sort
 - Merge sort (divide & conquer)
 - Merge two sorted arrays
+- Count inversions
 - **Practice:** 12 problems
 - **Time:** 5 hours
 
-### **Day 22: Quick Sort & Counting Sort**
+### **Day 24: Quick Sort & Counting Sort**
 - Quick sort algorithm
-- Partition logic
+- Partition logic (Lomuto, Hoare)
 - Counting sort
+- Kth largest element
 - **Practice:** 12 problems
 - **Time:** 5 hours
 
-### **Day 23: Sorting Advanced**
+### **Day 25: Sorting Advanced**
 - Heap sort basics
 - Radix sort
+- Bucket sort
 - Sort by custom comparator
 - **Practice:** 15 advanced sorting problems
 - **Time:** 5 hours
 
-### **Day 24: Hashing & Objects**
-- Hash map concept
-- JavaScript Objects as hash maps
-- Map data structure
-- Set data structure
-- **Practice:** 20 hashing problems
-- **Time:** 6 hours
-
-### **Day 25: Week 5-6 Review**
+### **Day 26: Week 5-6 Review**
 - Solve 35 mixed problems
 - Implement all sorting algorithms from scratch
+- Compare time complexities
 - **Time:** 5 hours
 
 ---
 
 ## 🌳 Week 7-8: Recursion & Backtracking
 
-### **Day 26: Recursion Basics**
+### **Day 27: Recursion Basics**
 - Understanding recursion
 - Base case and recursive case
 - Call stack visualization
 - Factorial, Fibonacci, power
+- Sum of digits using recursion
 - **Practice:** 15 basic recursion problems
 - **Time:** 5 hours
 
-### **Day 27: Recursion on Arrays & Strings**
+### **Day 28: Recursion on Arrays**
 - Array sum, product using recursion
-- String reversal, palindrome check
+- Find max/min recursively
+- Binary search using recursion
+- Reverse array recursively
+- **Practice:** 15 array recursion problems
+- **Time:** 5 hours
+
+### **Day 29: Recursion on Strings**
+- String reversal using recursion
+- Palindrome check recursively
 - Subsequences generation
-- **Practice:** 20 recursion problems
+- Print all permutations
+- **Practice:** 15 string recursion problems
 - **Time:** 6 hours
 
-### **Day 28: Backtracking Basics**
+### **Day 30: Backtracking Basics**
 - Backtracking concept
 - Generate all subsets
 - Generate permutations
 - Generate combinations
+- Letter combinations of phone number
 - **Practice:** 15 backtracking problems
 - **Time:** 6 hours
 
-### **Day 29: Backtracking Advanced**
+### **Day 31: Backtracking Advanced**
 - N-Queens problem
 - Sudoku solver
 - Rat in a maze
 - Word search in grid
+- Palindrome partitioning
 - **Practice:** 12 hard backtracking problems
 - **Time:** 7 hours
 
-### **Day 30: Week 7-8 Review**
+### **Day 32: Week 7-8 Review**
 - Solve 30 mixed recursion & backtracking problems
 - **Time:** 5 hours
 
@@ -235,38 +264,49 @@
 
 ## 📊 Week 9-10: Linked Lists
 
-### **Day 31: Singly Linked List**
+### **Day 33: Singly Linked List**
 - Node structure
 - Insertion (beginning, end, position)
 - Deletion (beginning, end, position)
 - Traversal and display
+- Search in linked list
 - **Practice:** 15 problems
 - **Time:** 6 hours
 
-### **Day 32: Linked List Operations**
+### **Day 34: Linked List Operations**
 - Reverse a linked list (iterative & recursive)
 - Detect cycle (Floyd's algorithm)
 - Find middle element
-- Remove duplicates
+- Remove duplicates from sorted list
+- Remove Nth node from end
 - **Practice:** 20 problems
 - **Time:** 6 hours
 
-### **Day 33: Doubly & Circular Linked List**
-- Doubly linked list implementation
-- Circular linked list
-- Operations on both
-- **Practice:** 15 problems
-- **Time:** 5 hours
-
-### **Day 34: Linked List Advanced**
+### **Day 35: Linked List Advanced - Part 1**
 - Merge two sorted lists
 - Intersection of two lists
-- Clone list with random pointer
+- Add two numbers (linked list)
+- Rotate linked list
+- **Practice:** 15 problems
+- **Time:** 6 hours
+
+### **Day 36: Linked List Advanced - Part 2**
 - Palindrome linked list
+- Clone list with random pointer
+- Flatten multilevel list
+- Sort linked list
 - **Practice:** 15 hard problems
 - **Time:** 6 hours
 
-### **Day 35: Week 9-10 Review**
+### **Day 37: Doubly & Circular Linked List**
+- Doubly linked list implementation
+- Circular linked list
+- Operations on both
+- LRU Cache implementation
+- **Practice:** 12 problems
+- **Time:** 5 hours
+
+### **Day 38: Week 9-10 Review**
 - Solve 25 mixed linked list problems
 - **Time:** 5 hours
 
@@ -274,76 +314,102 @@
 
 ## 📚 Week 11-12: Stacks & Queues
 
-### **Day 36: Stack Implementation**
+### **Day 39: Stack Implementation**
 - Stack using array
 - Stack using linked list
 - Stack operations (push, pop, peek)
+- Min stack implementation
 - **Practice:** 10 basic problems
 - **Time:** 4 hours
 
-### **Day 37: Stack Problems**
+### **Day 40: Stack Problems**
 - Balanced parentheses
 - Next greater element
+- Next smaller element
 - Stock span problem
-- Infix to postfix conversion
+- Largest rectangle in histogram
 - **Practice:** 20 stack problems
 - **Time:** 6 hours
 
-### **Day 38: Queue Implementation**
+### **Day 41: Stack Advanced**
+- Infix to postfix conversion
+- Evaluate postfix expression
+- Celebrity problem
+- Implement two stacks in array
+- **Practice:** 15 problems
+- **Time:** 5 hours
+
+### **Day 42: Queue Implementation**
 - Queue using array
 - Queue using linked list
 - Circular queue
 - Deque (Double-ended queue)
-- **Practice:** 15 queue problems
+- **Practice:** 12 queue problems
 - **Time:** 5 hours
 
-### **Day 39: Queue Advanced**
+### **Day 43: Queue Advanced**
 - Priority queue basics
 - Implement queue using stacks
 - Implement stack using queues
+- Sliding window maximum
+- First non-repeating character in stream
 - **Practice:** 15 problems
 - **Time:** 5 hours
 
-### **Day 40: Week 11-12 Review**
+### **Day 44: Week 11-12 Review**
 - Solve 30 mixed stack & queue problems
 - **Time:** 5 hours
 
 ---
 
-## 🌲 Week 13-14: Trees (Binary Trees)
+## 🌲 Week 13-14: Trees (Binary Trees & BST)
 
-### **Day 41: Binary Tree Basics**
+### **Day 45: Binary Tree Basics**
 - Tree terminology
 - Binary tree implementation
 - Tree traversals (Inorder, Preorder, Postorder)
 - Level order traversal
+- Iterative traversals using stack
 - **Practice:** 15 problems
 - **Time:** 6 hours
 
-### **Day 42: Binary Tree Operations**
+### **Day 46: Binary Tree Operations - Part 1**
 - Height of tree
 - Diameter of tree
 - Check if balanced
-- Check if identical
+- Check if identical/symmetric
+- Maximum path sum
 - **Practice:** 20 problems
 - **Time:** 6 hours
 
-### **Day 43: Binary Search Tree (BST)**
+### **Day 47: Binary Tree Operations - Part 2**
+- Lowest common ancestor
+- Vertical order traversal
+- Top/Bottom view of tree
+- Boundary traversal
+- Zigzag level order
+- **Practice:** 20 problems
+- **Time:** 6 hours
+
+### **Day 48: Binary Search Tree (BST)**
 - BST properties
 - Insertion and deletion in BST
 - Search in BST
 - Validate BST
+- Inorder successor/predecessor
 - **Practice:** 15 BST problems
 - **Time:** 6 hours
 
-### **Day 44: BST Advanced**
-- Lowest common ancestor
+### **Day 49: BST Advanced**
+- Lowest common ancestor in BST
 - Kth smallest/largest in BST
 - Convert sorted array to BST
+- Two sum in BST
+- Recover BST
 - **Practice:** 15 hard problems
 - **Time:** 6 hours
 
-### **Day 45: Week 13-14 Review**
+### **Day 50: Week 13-14 Review**
 - Solve 30 mixed tree problems
 - **Time:** 5 hours
 
@@ -351,34 +417,114 @@
 
 ## 🚀 Week 15-16: Heaps, Graphs & Dynamic Programming
 
-### **Day 46: Heaps (Priority Queue)**
+### **Day 51: Heaps (Priority Queue)**
 - Min heap and max heap
-- Heap operations
+- Heap operations (insert, delete)
+- Heapify process
 - Heap sort
 - Top K elements problems
-- **Practice:** 15 heap problems
+- Kth largest/smallest element
+- **Practice:** 18 heap problems
 - **Time:** 6 hours
 
-### **Day 47: Graphs Basics**
+### **Day 52: Graphs Basics**
 - Graph representation (adjacency matrix, list)
 - BFS (Breadth-First Search)
 - DFS (Depth-First Search)
-- **Practice:** 15 graph problems
+- Detect cycle in graph
+- Connected components
+- **Practice:** 18 graph problems
 - **Time:** 6 hours
 
-### **Day 48: Dynamic Programming Basics**
+### **Day 53: Graphs Advanced**
+- Topological sort
+- Shortest path (Dijkstra basics)
+- Number of islands
+- Clone graph
+- Course schedule problems
+- **Practice:** 15 advanced graph problems
+- **Time:** 7 hours
+
+### **Day 54: Dynamic Programming - 1D**
 - Memoization vs Tabulation
 - Fibonacci with DP
 - Climbing stairs
-- Coin change problem
+- House robber
+- Maximum sum non-adjacent elements
 - **Practice:** 15 DP problems
 - **Time:** 7 hours
 
-### **Day 49: Final Review & Mock Interviews**
-- Solve 50 mixed problems (all topics)
+### **Day 55: Dynamic Programming - 2D**
+- Coin change problem
+- 0/1 Knapsack
+- Longest common subsequence
+- Edit distance
+- Minimum path sum
+- **Practice:** 15 DP problems
+- **Time:** 7 hours
+
+### **Day 56: Dynamic Programming - Advanced**
+- Longest increasing subsequence
+- Partition equal subset sum
+- Matrix chain multiplication
+- Palindrome partitioning
+- **Practice:** 12 hard DP problems
+- **Time:** 7 hours
+
+### **Day 57: Week 15-16 Review**
+- Solve 40 mixed problems (heaps, graphs, DP)
+- **Time:** 6 hours
+
+---
+
+## 🎯 Week 17: Final Preparation
+
+### **Day 58: Bit Manipulation & Math**
+- Bitwise operators
+- Common bit tricks
+- Single number problems
+- Power set using bits
+- GCD, LCM, Prime factorization
+- **Practice:** 15 problems
+- **Time:** 5 hours
+
+### **Day 59: Greedy Algorithms**
+- Greedy approach concept
+- Activity selection
+- Fractional knapsack
+- Job sequencing
+- Huffman coding basics
+- **Practice:** 15 greedy problems
+- **Time:** 5 hours
+
+### **Day 60: Tries & Advanced String**
+- Trie implementation
+- Insert, search, delete in trie
+- Prefix matching
+- Longest common prefix using trie
+- **Practice:** 12 trie problems
+- **Time:** 5 hours
+
+### **Day 61: Mixed Practice - Easy to Medium**
+- Solve 30 problems (mix of all topics)
+- Focus on easy/medium difficulty
+- **Time:** 6 hours
+
+### **Day 62: Mixed Practice - Medium to Hard**
+- Solve 25 problems (mix of all topics)
+- Focus on medium/hard difficulty
+- **Time:** 6 hours
+
+### **Day 63: Mock Interviews & Contest**
 - Take 3 mock interviews (45 min each)
-- Review weak areas
-- **Time:** 8 hours
+- Participate in online contest
+- **Time:** 5 hours
+
+### **Day 64: Final Review & Weak Areas**
+- Review all weak topics
+- Solve 20+ problems from weak areas
+- Revise time/space complexities
+- **Time:** 6 hours
 
 ---
 
@@ -454,8 +600,10 @@ Night (30 min):
 - **Week 8:** Solve 50+ recursion problems ✓
 - **Week 10:** Build complete linked list from scratch ✓
 - **Week 12:** Master stacks & queues (60+ problems) ✓
-- **Week 14:** Complete binary tree problems ✓
-- **Week 16:** Ready for technical interviews! 🎉
+- **Week 14:** Complete binary tree & BST problems ✓
+- **Week 16:** Master heaps, graphs, and DP basics ✓
+- **Week 17:** Final prep - Tries, greedy, bit manipulation ✓
+- **Week 18:** Ready for technical interviews! 🎉
 
 ---
 
@@ -493,14 +641,16 @@ function updateProgress(week, completed) {
 
 ---
 
-## 🏆 By Day 49, You Will:
+## 🏆 By Day 64, You Will:
 
-✅ Solve 475+ DSA problems in JavaScript  
+✅ Solve 550+ DSA problems in JavaScript  
 ✅ Master all major data structures  
 ✅ Understand time & space complexity  
-✅ Be interview-ready for top tech companies  
+✅ Be interview-ready for FAANG companies  
 ✅ Have strong problem-solving skills  
 ✅ Build a solid GitHub portfolio  
 ✅ Gain confidence in coding interviews  
+✅ Know 15+ algorithms by heart  
+✅ Complete 6+ mock interviews  
 
 ---
